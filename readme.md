@@ -3,4 +3,6 @@
 
 데이터 분석 입문자를 위한 기초 파이썬 with ChatGPT 개강
 
- 👉 [강의 보러가기](https://inf.run/ixPop)
+데이터 분석 입문자를 위한 기초 파이썬 with ChatGPT **50% 할인 쿠폰 🔗 [링크](https://inf.run/r1F9p)**
+
+~~￦ 47,300~~ 👉 ￦ 23,600
